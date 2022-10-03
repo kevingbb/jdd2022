@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "api/src"
+    ],
+    "java.project.outputPath": "api/bin",
+    "java.project.referencedLibraries": [
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.excludedFolders": [
+        "**/.*",
+        "**/node_modules",
+        "**/target",
+        "**/bin",
+        "**/archetype-resources",
+        "."
+    ]
+}

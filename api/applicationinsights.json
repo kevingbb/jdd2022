@@ -1,0 +1,9 @@
+{
+  "connectionString": "InstrumentationKey=789bdcf4-f58e-4efe-8079-5d9270cf1a39;IngestionEndpoint=https://westeurope-1.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/",
+  "role": {
+    "name": "JDD_API"
+  },
+  "selfDiagnostics": {
+    "level": "info"
+  }
+}
