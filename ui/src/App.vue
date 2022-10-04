@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand navbar-dark bg-dark">
       <div class="nav-item">
         <a :href="$router.resolve({name: 'home'}).href">
-          Apps + Data Sample
+          <img src="jdd.jpeg">
         </a>
       </div>
       <div class="navbar-nav mr-auto">

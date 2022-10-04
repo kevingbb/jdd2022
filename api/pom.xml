@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kevin</groupId>
-	<artifactId>appsdata</artifactId>
+	<artifactId>jdd2022</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for JDD.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
